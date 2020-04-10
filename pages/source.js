@@ -1,4 +1,4 @@
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import { Flex, Box, Divider } from "@chakra-ui/core";
 
 export default function() {
@@ -11,7 +11,7 @@ export default function() {
             Corona Virus Pandemic.
           </p>
           <ul>
-            <li>Github: https://github.com/segebee/</li>
+            <li>Github: https://github.com/segebee/corona-virus-analytics</li>
             <li>API: https://covid19.mathdro.id/api/</li>
             <li>Framework: NextJS (https://nextjs.org/)</li>
             <li>Design Framework: ChakraUI(https://chakra-ui.com/)</li>
